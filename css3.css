@@ -19,7 +19,7 @@ h1{
 #introtext {
     width: 471px;
     float: left;
-    margin: 40px 0px 0px 110px;
+    margin: 40px 0px 10px 110px;
 }
 
 #profilePicture{
@@ -29,6 +29,7 @@ h1{
 
 .reset{
     clear: both;
+    margin: 30px 20px 20px 20px;
 }
 
 #hobbyText{
@@ -38,6 +39,7 @@ h1{
 
 #heroshot {
     float: left;
+    margin: 0px 20px 20px 200px;
 }
 
 #socials {
